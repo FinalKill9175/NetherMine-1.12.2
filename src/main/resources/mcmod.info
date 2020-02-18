@@ -1,0 +1,16 @@
+[
+{
+  "modid": "nethermine",
+  "name": "Nether Mine",
+  "description": "(revised) Fork of the Nether Ores mod by Power Crystals from Minecraft 1.7.10",
+  "version": "1.12.2-1.0.1-r",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["FinalKG"],
+  "credits": "Minecraft Forge (+authors), me (late nights and caffine), PowerCrystals",
+  "logoFile": "mod.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

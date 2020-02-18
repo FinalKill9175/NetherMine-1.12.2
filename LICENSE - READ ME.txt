@@ -1,0 +1,98 @@
+FinalKG's Minecraft Modding Public License
+##########################################
+Version 1.0.0
+0. Definitions
+--------------
+
+Minecraft: Denotes a copy of the Minecraft game licensed by Mojang AB
+
+ModPack: a set of minecraft mods released in groups, usually on the Technic Platform or on Feed the Beast.
+
+User: Anybody that interacts with the software in one of the following ways:
+- play
+- modify contents within the file (textures, .json) BUT NOT any original source code, compiled code, or this license, including mcmod.info
+
+- Redistribute this software among friends, privately or within a modpack without written permission.
+
+What the user CANNOT do with this software:
+-Remove or modify this license from the file in question.
+-De-compile, modify source and redistribute the software
+-Redistribute publicly, on their own website, without WRITTEN PERMISSION from the developer and a sample of the file being released.
+The file to be released in question must be unmodified, and all original from the files posted by the author.
+You can send me an email, at finalkill9175@gmail.com or contact me on the forums this mod was downloaded to receive a response.
+
+
+Mod: The mod code designated by the present license, in source form, binary
+form, as obtained standalone, as part of a wider distribution or resulting from
+the compilation of the original or modified sources.
+
+Dependency: Code required for the mod to work properly. This includes
+dependencies required to compile the code as well as any file or modification
+that is explicitly or implicitly required for the mod to be working.
+
+1. Scope
+--------
+
+The present license is granted to any user of the mod. As a prerequisite,
+a user must own a legally acquired copy of Minecraft
+
+2. Liability
+------------
+
+This mod is provided 'as is' with no warranties, implied or otherwise. The owner
+of this mod takes no responsibility for any damages incurred from the use of
+this mod. This mod alters fundamental parts of the Minecraft game, parts of
+Minecraft may not work with this mod installed. All damages caused from the use
+or misuse of this mod fall on the user.
+
+3. Play rights
+--------------
+
+The user is allowed to install this mod on a client or a server and to play
+without restriction.
+
+4. Modification rights
+----------------------
+
+The user DOES HAVE the right to decompile the source code, look at either the
+decompiled version or the original source code, and to modify it. As long as the user
+in question does not redistribute the modified files publicly.
+
+5. Derivation rights
+--------------------
+
+The user DOES HAVE the rights to derive code from this mod, that is to say to
+write code that extends or instantiate the mod classes or interfaces, refer to
+its objects, or calls its functions. This code is known as "derived" code, and
+can be licensed under a license different from this mod. CREDIT MUST BE GIVEN TO THE
+ORIGINAL AUTHOR.
+
+6. Distribution of original or modified copy rights
+---------------------------------------------------
+
+Is subject to distribution rights this entire mod in its various forms. This
+include:
+- original binary or source forms of this mod files
+- modified versions of these binaries or source files, as well as binaries
+resulting from source modifications
+- patch to its source or binary files
+- any copy of a portion of its binary source files
+
+The user is NOT ALLOWED to redistribute this mod partially, in totality, or
+included in a distribution, without written permission from the developer.
+
+Unless the mod is included in a modpack.
+
+When distributing binary files, the user must provide means to obtain its
+entire set of sources at no costs.
+
+All distributions of this mod must remain licensed under the FinalKG Minecraft Mod Public License, and include a copy of this text file.
+
+All dependencies that this mod have on other mods or classes must be licensed
+under conditions comparable to this version of FinalKG Minecraft Mod Public License, with the exception of the
+Minecraft code and the mod loading framework (e.g. ModLoader, ModLoaderMP or
+Bukkit).
+
+Modified version of binaries and sources, as well as files containing sections
+copied from this mod, should be distributed under the terms of the present
+license.

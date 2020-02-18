@@ -1,0 +1,50 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "textures": {
+        },
+        "model": "cube_all"
+    },
+    "variants": {
+        "normal": [{
+
+        }],
+        "inventory": [{
+
+        }],
+        "ore": {
+            "coal":  { "textures": { "all": "nethermine:blocks/nether_coal"} },
+			"diamond": { "textures": { "all": "nethermine:blocks/nether_diamond"} },
+			"gold": { "textures": { "all": "nethermine:blocks/nether_gold"} },
+			"iron": { "textures": { "all": "nethermine:blocks/nether_iron"} },
+			"lapis":  { "textures": { "all": "nethermine:blocks/nether_lapis"} },
+			"redstone":  { "textures": { "all": "nethermine:blocks/nether_redstone"} },
+			"copper":  { "textures": { "all": "nethermine:blocks/nether_copper"} },
+            "tin":  { "textures": { "all": "nethermine:blocks/nether_tin"} },
+			"emerald":  { "textures": { "all": "nethermine:blocks/nether_emerald"} },
+			"silver":  { "textures": { "all": "nethermine:blocks/nether_silver"} },
+			"lead":  { "textures": { "all": "nethermine:blocks/nether_lead"} },
+			"uranium":  { "textures": { "all": "nethermine:blocks/nether_uranium"} },
+			"nikolite":  { "textures": { "all": "nethermine:blocks/nether_nikolite"} },
+			"ruby":  { "textures": { "all": "nethermine:blocks/nether_ruby"} },
+			"peridot":  { "textures": { "all": "nethermine:blocks/nether_peridot"} },
+			"sapphire":  { "textures": { "all": "nethermine:blocks/nether_sapphire"} },
+			"platinum":  { "textures": { "all": "nethermine:blocks/nether_platinum"} },
+			"nickel": { "textures": { "all": "nethermine:blocks/nether_nickel"} },
+			"steel": { "textures": { "all": "nethermine:blocks/nether_steel"} },
+			"iridium": { "textures": { "all": "nethermine:blocks/nether_iridium"} },
+			"osmium":  { "textures": { "all": "nethermine:blocks/nether_osmium"} },
+			"sulfur":  { "textures": { "all": "nethermine:blocks/nether_sulfur"} },
+			"titanium":  { "textures": { "all": "nethermine:blocks/nether_titanium"} },
+            "mithril":  { "textures": { "all": "nethermine:blocks/nether_mithril"} },
+			"adamantium":  { "textures": { "all": "nethermine:blocks/nether_adamantium"} },
+			"rutile":  { "textures": { "all": "nethermine:blocks/nether_rutile"} },
+			"tungsten":  { "textures": { "all": "nethermine:blocks/nether_tungsten"} },
+			"amber":  { "textures": { "all": "nethermine:blocks/nether_amber"} },
+			"tennantite":  { "textures": { "all": "nethermine:blocks/nether_tennantite"} },
+			"salt":  { "textures": { "all": "nethermine:blocks/nether_salt"} },
+			"saltpeter":  { "textures": { "all": "nethermine:blocks/nether_saltpeter"} },
+			"magnesium":  { "textures": { "all": "nethermine:blocks/nether_magnesium"} }
+        }
+    }
+}
